@@ -1,0 +1,9 @@
+sources:
+  30-0-google-croscore-arimo-fontconfig.conf: 408e0d798a7c2ed0b5a1c466c9845e52cf07528d
+  30-0-google-croscore-cousine-fontconfig.conf: 2cb03360d4c6ce52088d19367c2f74f9d326c634
+  30-0-google-croscore-tinos-fontconfig.conf: 0dff8734a57a5985501d44204e41094a9ccbb82d
+  62-google-croscore-arimo-fontconfig.conf: 8a0bec8050a57a35438d626e4c34842825aa06be
+  62-google-croscore-cousine-fontconfig.conf: 11e4e4f0d10796ea2ca54e4e20a97132e803f35a
+  62-google-croscore-symbolneu-fontconfig.conf: 2be0d91e69d334dd6225a490692ee974c923fe9e
+  62-google-croscore-tinos-fontconfig.conf: 2f7a21b28567b241be208ca5bfc66fa99d5f4caa
+  croscorefonts-1.23.0.tar.gz: 9d2cb76e055b9b75f0c4e57ab8a79e93a27fa1a2
