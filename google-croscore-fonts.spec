@@ -11,7 +11,7 @@ portability across platforms.
 
 Name:           %{fontname}-fonts
 Version:        1.23.0
-Release:        %mkrel 3
+Release:        1
 Summary:        The width-compatible fonts for improved on-screen readability
 
 Group:          System/Fonts/True type
@@ -139,43 +139,3 @@ done
 %files common
 %doc LICENSE-2.0.txt
 
-
-
-
-%changelog
-* Wed Oct 15 2014 umeabot <umeabot> 1.23.0-3.mga5
-+ Revision: 748729
-- Second Mageia 5 Mass Rebuild
-
-* Tue Sep 16 2014 umeabot <umeabot> 1.23.0-2.mga5
-+ Revision: 679888
-- Mageia 5 Mass Rebuild
-
-* Sat Nov 02 2013 tv <tv> 1.23.0-1.mga4
-+ Revision: 548809
-- imported package google-croscore-fonts
-
-
-* Sat Nov 02 2013 Thierry Vignaud <tv@mageia.org> 1.23.0-1.mga4
-- imported from FC
-
-* Sat Aug 03 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.23.0-3
-- Rebuilt for https://fedoraproject.org/wiki/Fedora_20_Mass_Rebuild
-
-* Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.23.0-2
-- Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
-
-* Mon Dec 17 2012 Parag Nemade <pnemade AT redhat DOT com>- 1.23.0-1
-- Update to next upstream release 1.23.0
-
-* Thu Jul 19 2012 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.21.0-4
-- Rebuilt for https://fedoraproject.org/wiki/Fedora_18_Mass_Rebuild
-
-* Tue Apr 24 2012 Parag Nemade <pnemade AT redhat DOT com>- 1.21.0-3
-- Resolves:rh#814631-Typo in 62-google-croscore-cousine-fontconfig.conf
-
-* Tue Mar 27 2012 Parag Nemade <pnemade AT redhat DOT com>- 1.21.0-2
-- Updated fontconfig rules.
-
-* Wed Mar 21 2012 Parag Nemade <pnemade AT redhat DOT com>- 1.21.0-1
-- Initial packaging
