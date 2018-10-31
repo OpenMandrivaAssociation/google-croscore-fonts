@@ -11,7 +11,7 @@ portability across platforms.
 
 Name:           %{fontname}-fonts
 Version:        1.23.0
-Release:        1
+Release:        2
 Summary:        The width-compatible fonts for improved on-screen readability
 
 Group:          System/Fonts/True type
